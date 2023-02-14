@@ -1,3 +1,4 @@
+# Algoritms Training 1.0 Themes
 Lesson 1 - Complexity, testing, special cases
 
 Lesson 2 - Linear search
